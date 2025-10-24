@@ -1,0 +1,3 @@
+[submodule "ModelGenerator"]
+	path = ModelGenerator
+	url = https://github.com/genbio-ai/ModelGenerator.git
